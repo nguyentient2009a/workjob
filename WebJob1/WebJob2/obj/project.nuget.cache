@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQet1ZIo0oUswoagbqcefS0zDkXpUZfWNN9hhl/kbG0ctVUo7Fy/Hu8D+VszzNXH+X+eS1Rp7r6XTZO+AiI8eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebJob1\\WebJob2\\WebJob2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.azure.keyvault.core\\1.0.0\\microsoft.azure.keyvault.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.azure.webjobs\\1.1.2\\microsoft.azure.webjobs.1.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.azure.webjobs.core\\1.1.2\\microsoft.azure.webjobs.core.1.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.services.client\\5.8.4\\microsoft.data.services.client.5.8.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.1\\microsoft.windowsazure.configurationmanager.3.2.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\windowsazure.storage\\7.0.0\\windowsazure.storage.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
